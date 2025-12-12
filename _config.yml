@@ -1,0 +1,34 @@
+# Basic Information 
+title: Yinlin Hu
+position: Staff Researcher & Engineer
+affiliation: Magic Leap
+affiliation_link: https://www.magicleap.com/
+affiliation_logo: assets/img/magic_leap.png
+email: huyinlin (at) gmail.com
+
+# Search Engine Optimization (SEO)
+keywords: yinlin hu, hu yinlin, yinlinhu, huyinlin
+canonical: https://yinlinhu.github.io
+favicon: assets/img/favicon.ico
+description: Yinlin Hu is a staff researcher and engineer at Magic Leap, specializing in AI solutions for object and scene understanding to help bridge the digital and physical worlds.
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: text #text/icon
+google_scholar: https://scholar.google.com/citations?user=dhmdaoQAAAAJ
+github_link: https://github.com/yinlinhu
+
+# Images 
+avatar: assets/img/avatar.jpg
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

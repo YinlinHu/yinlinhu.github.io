@@ -1,0 +1,197 @@
+main:
+
+
+  - title: "Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera"
+    authors: Haixin Shi, <strong>Yinlin Hu</strong>, Daniel Koguciuk, Juan-Ting Lin, Mathieu Salzmann, David Ferstl
+    conference: AAAI Conference On Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2405.05858
+    bibtex: https://dblp.org/rec/conf/aaai/ShiHKLSF25.html?view=bibtex
+    page: https://haixinshi.github.io/fmov/
+    image: assets/teaser/fmov.png
+    code: https://github.com/HaixinShi/fmov_pose
+    badge: 2025
+
+  - title: "SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow"
+    authors: Qingyuan Wang, Rui Song, Jiaojiao Li, Kerui Cheng, David Ferstl, <strong>Yinlin Hu</strong>
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SCFlow2_Plug-and-Play_Object_Pose_Refiner_with_Shape-Constraint_Scene_Flow_CVPR_2025_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/Wang00CFH25.html?view=bibtex
+    page: https://scflow2.github.io/
+    image: assets/teaser/scflow2.png
+    code: https://github.com/W-QY/SCFlow2
+    badge: 2025
+
+  - title: "Hierarchical Flow Diffusion for Efficient Frame Interpolation"
+    authors: Yang Hai, Guo Wang, Tan Su, Wenjie Jiang, <strong>Yinlin Hu</strong>
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Hai_Hierarchical_Flow_Diffusion_for_Efficient_Frame_Interpolation_CVPR_2025_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HaiWSJH25.html?view=bibtex
+    image: assets/teaser/flow_diffusion.png
+    badge: 2025
+
+  - title: "LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation"
+    authors: Chen Zhao, <strong>Yinlin Hu</strong>, Mathieu Salzmann
+    conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2211.16290
+    bibtex: https://dblp.org/rec/conf/3dim/ZhaoHS24.html?view=bibtex
+    image: assets/teaser/loc_pose_net.png
+    code: https://github.com/sailor-z/LocPoseNet
+    badge: 2024
+
+  - title: "NOPE: Novel Object Pose Estimation from a Single Image"
+    authors: Van Nguyen Nguyen, Thibault Groueix, Georgy Ponimatkin, <strong>Yinlin Hu</strong>, Renaud Marlet, Mathieu Salzmann, Vincent Lepetit
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_NOPE_Novel_Object_Pose_Estimation_from_a_Single_Image_CVPR_2024_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/NguyenGPHMSL24.html?view=bibtex
+    image: assets/teaser/nope.png
+    page: https://nv-nguyen.github.io/nope/
+    code: https://github.com/nv-nguyen/nope
+    badge: 2024
+
+  - title: "Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation"
+    authors: Fulin Liu, <strong>Yinlin Hu</strong>, Mathieu Salzmann
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Linear-Covariance_Loss_for_End-to-End_Learning_of_6D_Pose_Estimation_ICCV_2023_paper.pdf
+    bibtex: https://dblp.org/rec/conf/iccv/LiuHS23.html?view=bibtex
+    image: assets/teaser/linear_cov_pose.png
+    code: https://github.com/fulliu/lc
+    badge: 2023
+
+  - title: "Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation"
+    authors: Yang Hai, Rui Song, Jiaojiao Li, David Ferstl, <strong>Yinlin Hu</strong>
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf
+    bibtex: https://dblp.org/rec/conf/iccv/Hai00FH23.html?view=bibtex
+    image: assets/teaser/pseudo_flow.png
+    code: https://github.com/YangHai-1218/PseudoFlow
+    badge: 2023
+
+  - title: "Shape-Constraint Recurrent Flow for 6D Object Pose Estimation"
+    authors: Yang Hai, Rui Song, Jiaojiao Li, <strong>Yinlin Hu</strong>
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Shape-Constraint_Recurrent_Flow_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/Hai00H23.html?view=bibtex
+    image: assets/teaser/scflow.png
+    code: https://github.com/YangHai-1218/SCFlow
+    badge: 2023
+
+  - title: "Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions"
+    authors: Shuxuan Guo, <strong>Yinlin Hu</strong>, Jose M Alvarez, Mathieu Salzmann
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Knowledge_Distillation_for_6D_Pose_Estimation_by_Aligning_Distributions_of_CVPR_2023_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/GuoHAS23.html?view=bibtex
+    image: assets/teaser/knowledge_dis.png
+    code: https://github.com/GUOShuxuan/kd-6d-pose-adlp
+    badge: 2023
+
+  - title: "Rigidity-Aware Detection for 6D Object Pose Estimation"
+    authors: Yang Hai, Rui Song, Jiaojiao Li, Mathieu Salzmann, <strong>Yinlin Hu</strong>
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/Hai00SH23.html?view=bibtex
+    image: assets/teaser/radet.png
+    code: https://github.com/YangHai-1218/RADet
+    badge: 2023
+
+  - title: "Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation"
+    authors: <strong>Yinlin Hu</strong>, Pascal Fua, Mathieu Salzmann
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2203.09836
+    bibtex: https://dblp.org/rec/conf/eccv/HuFS22.html?view=bibtex
+    image: assets/teaser/pfa_pose.png
+    code: https://github.com/cvlab-epfl/perspective-flow-aggregation
+    badge: 2022
+    notes: <br>Best single-model in [<a href="https://bop.felk.cvut.cz/home">BOP Challenge</a>] 2022 and 2023
+
+  - title: "Fusing Local Similarities for Retrieval-Based 3D Orientation Estimation of Unseen Objects"
+    authors: Chen Zhao, <strong>Yinlin Hu</strong>, Mathieu Salzmann
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2203.08472
+    bibtex: https://dblp.org/rec/conf/eccv/ZhaoHS22.html?view=bibtex
+    image: assets/teaser/fuse_unseen_pose.png
+    code: https://github.com/sailor-z/Unseen_Object_Pose
+    badge: 2022
+
+  - title: "Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions"
+    authors: Van Nguyen Nguyen, <strong>Yinlin Hu</strong>, Yang Xiao, Mathieu Salzmann, Vincent Lepetit
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/NguyenHXSL22.html?view=bibtex
+    image: assets/teaser/template_pose.png
+    code: https://github.com/nv-nguyen/template-pose
+    badge: 2022
+
+  - title: "Robust Differentiable SVD"
+    authors: Wei Wang, Zheng Dang, <strong>Yinlin Hu</strong>, Pascal Fua, Mathieu Salzmann
+    conference: Pattern Analysis and Machine Intelligence <strong>(PAMI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2104.03821
+    bibtex: https://dblp.org/rec/journals/pami/WangDHFS22.html?view=bibtex
+    image: assets/teaser/robust_svd.png
+    code: https://github.com/WeiWangTrento/Robust-Differentiable-SVD
+    badge: 2021
+
+  - title: "Wide-Depth-Range 6D Object Pose Estimation in Space"
+    authors: <strong>Yinlin Hu</strong>, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
+    pdf: https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Wide-Depth-Range_6D_Object_Pose_Estimation_in_Space_CVPR_2021_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HuSJFS21.html?view=bibtex
+    image: assets/teaser/wdr_pose.png
+    code: https://github.com/cvlab-epfl/wide-depth-range-pose
+    badge: 2021
+    notes: Vision solution for [<a href="https://www.epfl.ch/labs/cvlab/research/space-object-pose/">ClearSpace-1</a>]
+
+  - title: "SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation"
+    authors: Zhigang Li, <strong>Yinlin Hu</strong>, Mathieu Salzmann, Xiangyang Ji
+    conference: AAAI Conference On Artificial Intelligence <strong>(AAAI)</strong>, 2021.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/16298/16105
+    bibtex: https://dblp.org/rec/conf/aaai/LiHSJ21.html?view=bibtex
+    image: assets/teaser/sd_pose.png
+    badge: 2021
+
+  - title: "Eigendecomposition-Free Training of Deep Networks for Linear Least-Square Problems"
+    authors: Zheng Dang, Kwang Moo Yi, <strong>Yinlin Hu</strong>, Fei Wang, Pascal Fua, Mathieu Salzmann
+    conference: Pattern Analysis and Machine Intelligence <strong>(PAMI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2004.07931
+    bibtex: https://dblp.org/rec/journals/pami/DangYHWFS21.html?view=bibtex
+    image: assets/teaser/eigen_free.png
+    code: https://github.com/Dangzheng/Eig-Free-release
+    badge: 2021
+
+  - title: "Single-Stage 6D Object Pose Estimation"
+    authors: <strong>Yinlin Hu</strong>, Pascal Fua, Wei Wang, Mathieu Salzmann
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HuF0S20.html?view=bibtex
+    image: assets/teaser/single_stage_pose.png
+    code: https://github.com/cvlab-epfl/single-stage-pose
+    badge: 2020
+
+  - title: "Segmentation-Driven 6D Object Pose Estimation"
+    authors: <strong>Yinlin Hu</strong>, Joachim Hugonot, Pascal Fua, Mathieu Salzmann
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.
+    pdf: https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Segmentation-Driven_6D_Object_Pose_Estimation_CVPR_2019_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HuHFS19.html?view=bibtex
+    image: assets/teaser/segdriven_pose.png
+    code: https://github.com/cvlab-epfl/segmentation-driven-pose
+    badge: 2019
+    notes: 2nd place in [<a href="https://kelvins.esa.int/satellite-pose-estimation-challenge/home/">Kelvins Challenge</a>]
+
+  - title: "Robust Interpolation of Correspondences for Large Displacement Optical Flow"
+    authors: <strong>Yinlin Hu</strong>, Yunsong Li, Rui Song
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2017.
+    pdf: https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Robust_Interpolation_of_CVPR_2017_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HuLS17.html?view=bibtex
+    image: assets/teaser/ric_flow.png
+    code: https://github.com/YinlinHu/Ric
+    badge: 2017
+    notes: Integrated into [<a href="https://docs.opencv.org/4.2.0/d2/da4/classcv_1_1ximgproc_1_1RICInterpolator.html">OpenCV</a>]
+
+  - title: "Efficient Coarse-to-Fine PatchMatch for Large Displacement Optical Flow"
+    authors: <strong>Yinlin Hu</strong>, Rui Song, Yunsong Li
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2016.
+    pdf: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Efficient_Coarse-To-Fine_PatchMatch_CVPR_2016_paper.pdf
+    bibtex: https://dblp.org/rec/conf/cvpr/HuSL16.html?view=bibtex
+    image: assets/teaser/cpm_flow.png
+    code: https://github.com/YinlinHu/CPM
+    badge: 2016
+    notes: Spotlight Presentation
